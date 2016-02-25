@@ -68,8 +68,3 @@ More details about deploying with git to Heroku, including setting up the remote
 [https://devcenter.heroku.com/articles/git](https://devcenter.heroku.com/articles/git)
 
 
-###Robots.txt###
-
-***NOTE***:  The site currently has a robots.txt with disallow all in place.  When the site goes live, delete the robots.txt or the site won't show up in Google search results.
-
-
